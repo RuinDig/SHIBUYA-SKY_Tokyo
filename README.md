@@ -1,6 +1,8 @@
 # SHIBUYA-SKY_Tokyo
 渋谷スクランブルスクエアの屋上展望施設SHIBUYA SKY(渋谷スカイ)。14階～45階の移行空間「SKY GATE」、屋外展望空間「SKY STAGE」、46階の屋内展望回廊「SKY GALLERY」の3つのエリアで構成されている。【場所：東京都渋谷区】撮影時期：2020年12月
 
+SHIBUYA SKY comprises three zones: SKY GATE, a transitional space on the 14F–45F; SKY STAGE, an outdoor observation area; and SKY GALLERY, an indoor observation corridor on the 46F. Tokyo, Shibuya, December 2020.
+
 ![SHIBUYA-SKY_Tokyo_001](https://user-images.githubusercontent.com/20723919/115001128-663af400-9ede-11eb-9a0a-2a9f03575e17.JPG)
 
 ![SHIBUYA-SKY_Tokyo_002](https://user-images.githubusercontent.com/20723919/115001141-676c2100-9ede-11eb-8e91-353e41904b5a.JPG)
